@@ -3,7 +3,7 @@
 $db_name  = 'skoumas_mpja';
 $db_server = '127.0.0.1';
 $username = 'skoumas_mpja';
-$password = '003232';
+$password = '';
 $hostname  = $db_server;
 
 $connection = @mysql_connect($db_server,$username,$password);
