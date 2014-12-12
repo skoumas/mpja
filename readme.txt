@@ -2,14 +2,14 @@
 ******************************
 
 
-	George's Papanikolaou
-		Angular Demo
-		
-		MYSQL to PHP 
-	  to JSON to ANGULAR
-
-	  		2014
-	  www.skoumas.com
+George's Papanikolaou
+Angular Demo
+			
+MYSQL to PHP 
+to JSON to ANGULAR
+	
+2014
+www.skoumas.com
 
 
 ******************************
